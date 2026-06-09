@@ -21,7 +21,7 @@ App akan berjalan di **http://localhost:5173**
 
 ## Features
 
-### Core Features (Rubric)
+### Core Features
 
 | Feature | Description |
 |---|---|
@@ -33,7 +33,7 @@ App akan berjalan di **http://localhost:5173**
 | **Product Detail Modal** | Click any product to open a full modal with image, description, category, rating, price, and shipping info |
 | **Responsive Grid** | 1 column on mobile, 2 columns on tablet, 4 columns on desktop |
 
-### Bonus Features (3 features — highest score criteria)
+### Bonus Features
 
 | Feature | Description |
 |---|---|
