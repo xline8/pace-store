@@ -55,32 +55,32 @@ App akan berjalan di **http://localhost:5173**
 
 ## Folder Structure
 
-src/
-├── components/
-│   ├── CartDrawer.tsx
-│   ├── CheckoutModal.tsx
-│   ├── ErrorState.tsx
-│   ├── FilterBar.tsx
-│   ├── InfoModal.tsx
-│   ├── MobileMenu.tsx
-│   ├── Navbar.tsx
-│   ├── ProductCard.tsx
-│   ├── ProductModal.tsx
-│   ├── SkeletonCard.tsx
-│   ├── StarRating.tsx
-│   └── ToastContainer.tsx
-├── context/
-│   └── CartContext.tsx
-├── hooks/
-│   ├── useDebounce.ts
-│   └── useProducts.ts
-├── lib/
-│   └── api.ts
-├── types/
-│   └── index.ts
-├── App.tsx
-├── main.tsx
-└── index.css
+**src/**
+- components/
+  - CartDrawer.tsx
+  - CheckoutModal.tsx
+  - ErrorState.tsx
+  - FilterBar.tsx
+  - InfoModal.tsx
+  - MobileMenu.tsx
+  - Navbar.tsx
+  - ProductCard.tsx
+  - ProductModal.tsx
+  - SkeletonCard.tsx
+  - StarRating.tsx
+  - ToastContainer.tsx
+- context/
+  - CartContext.tsx
+- hooks/
+  - useDebounce.ts
+  - useProducts.ts
+- lib/
+  - api.ts
+- types/
+  - index.ts
+- App.tsx
+- main.tsx
+- index.css
 
 ---
 
