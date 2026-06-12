@@ -1,6 +1,6 @@
 # Pace Store — Product Catalog
 
-A modern product catalog application built with React + Vite + TypeScript + Tailwind CSS, fetching data from [Fake Store API](https://fakestoreapi.com).
+A modern product catalog application built with React,Vite,TypeScript,Tailwind CSS,fetching data from [Fake Store API](https://fakestoreapi.com).
 
 ## Getting Started
 
